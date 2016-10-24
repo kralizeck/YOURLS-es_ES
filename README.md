@@ -17,6 +17,6 @@ Para YOURLS **1.7**
 Traducción mantenida por @kralizeck
 
 
-## Licenci
+## Licencia
 
 Haz lo que te plazca.
